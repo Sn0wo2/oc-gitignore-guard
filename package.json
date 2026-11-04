@@ -1,7 +1,12 @@
 {
-  "name": "opencode-gitignore-guard",
+  "name": "oc-gitignore-guard",
   "version": "0.1.0",
   "type": "module",
+  "description": "OpenCode2 plugin that requires approval for reading or editing files ignored by .gitignore",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sn0wo2/oc-gitignore-guard.git"
+  },
   "packageManager": "bun@1.4.4",
   "files": [
     "src"

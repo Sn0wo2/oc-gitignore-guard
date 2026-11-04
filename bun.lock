@@ -3,7 +3,7 @@
   "configVersion": 1,
   "workspaces": {
     "": {
-      "name": "opencode-gitignore-guard",
+      "name": "oc-gitignore-guard",
       "dependencies": {
         "@opencode/plugin": "2.0.18",
         "isomorphic-git": "^1.42.5",
